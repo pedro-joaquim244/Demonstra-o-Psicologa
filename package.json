@@ -1,0 +1,26 @@
+{
+  "name": "landing-page-home-estatica",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@vitejs/plugin-react": "^6.1.1",
+    "bootstrap": "^5.3.8",
+    "bootstrap-icons": "^1.13.1",
+    "gsap": "^3.15.0",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0",
+    "vite": "^8.3.0"
+  },
+  "devDependencies": {
+    "@playwright/cli": "^0.1.20",
+    "@playwright/test": "^1.63.0",
+    "gh-pages": "^6.3.0",
+    "sharp": "^0.35.4"
+  }
+}
